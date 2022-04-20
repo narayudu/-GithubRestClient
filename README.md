@@ -1,2 +1,2 @@
-# -GithubRestClient
+# GithubRestClient
 GitHub REST API Client
