@@ -66,6 +66,7 @@ statuses:
 - context: docs/readthedocs.org:argo-cd
 - 
   state: success
+  
   updated_at: '2022-04-21T18:38:06Z'
              
               
